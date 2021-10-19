@@ -3,7 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_add_black.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_close_white.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_delete.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_directions_run_black_24dp.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_graph.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_pause_black_24dp.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_run.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_settings.xml" value="0.2713541666666667" />
+        <entry key="..\:/RunningApp/app/src/main/res/drawable/ic_stop_black_24dp.xml" value="0.2713541666666667" />
         <entry key="..\:/RunningApp/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/fragment_run.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/fragment_settings.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/fragment_setup.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/fragment_statistics.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/fragment_tracking.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/layout/item_run.xml" value="0.1503623188405797" />
+        <entry key="..\:/RunningApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2552083333333333" />
       </map>
     </option>
   </component>
