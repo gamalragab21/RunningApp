@@ -4,7 +4,9 @@ import com.example.runningapp.db.Run
 import com.example.runningapp.db.RunDao
 import javax.inject.Inject
 
-class MainRepository @Inject constructor(val runDao: RunDao) {
+class MainRepository @Inject constructor(
+    private val runDao: RunDao
+    ) {
 
 
     suspend fun insertRun(run: Run) = runDao.insertRun(run)
@@ -15,7 +17,7 @@ class MainRepository @Inject constructor(val runDao: RunDao) {
 
     fun getAllRunsSortedByDistance() = runDao.getAllRunsSortedByDistanceInMeters()
 
-    fun getAllRunsSortedByTimeInMillis() = runDao.getAllTimeInMillis()
+    fun getAllRunsSortedByTimeInMillis() = runDao.getAllRunsSortedByTimeInMillis()
 
     fun getAllRunsSortedByAvgSpeed() = runDao.getAllRunsSortedByAvgSpeedInKMH()
 
