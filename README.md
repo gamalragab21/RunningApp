@@ -1,8 +1,17 @@
 # RunningApp
-Running app using hilt and coroutines
-# Screenshots
+Now , I'm finished building a simple project Running App
+##  technology used [dagger hilt, coroutines, navigation components, service LiveData, Skelton patterns, clean code, Room DB, Glide, and more..]
 
-![Screenshot_1634806576](https://user-images.githubusercontent.com/67482991/138246356-b08980b4-33e0-4590-a846-d27a8b1483c5.png) ![Screenshot_1634806581](https://user-images.githubusercontent.com/67482991/138246384-e8cb1de9-1c58-4384-9058-bd6c62feae00.png)
+### Learn
+ in the project u learn ...
+- how to deal with Foreground service?
+- how to draw polylines in mapView?
+- the best way to handle location permission and get the current location.
+- what's the MediatorLiveData and how to use it with LiveData ?
+#### Screenshots
+
+![Screenshot_1634806576](https://user-images.githubusercontent.com/67482991/138246356-b08980b4-33e0-4590-a846-d27a8b1483c5.png) 
+![Screenshot_1634806581](https://user-images.githubusercontent.com/67482991/138246384-e8cb1de9-1c58-4384-9058-bd6c62feae00.png)
 ![Screenshot_1634806654](https://user-images.githubusercontent.com/67482991/138246402-f3267fde-128a-488e-a736-255de9dd7d8c.png)
 ![Screenshot_1634806670](https://user-images.githubusercontent.com/67482991/138246410-0532b286-51ed-46e2-a6c5-59862bd1b991.png)
 ![Screenshot_1634806687](https://user-images.githubusercontent.com/67482991/138246421-0c878c35-a788-419e-a3a5-71269aacacd9.png)
