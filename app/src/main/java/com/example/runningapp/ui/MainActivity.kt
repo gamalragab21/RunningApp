@@ -30,6 +30,9 @@ class MainActivity : AppCompatActivity() {
         bottomNavigationView.setupWithNavController(
             navHostFragment.findNavController()
         )
+        bottomNavigationView.setOnItemReselectedListener {
+            /*No Operation*/
+        }
 
         // to hide or show bottomNavigation in some Fragments
 
