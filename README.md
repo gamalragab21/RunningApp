@@ -10,7 +10,9 @@ Now , I'm finished building a simple project Running App
 - what's the MediatorLiveData and how to use it with LiveData ?
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/67482991/138246356-b08980b4-33e0-4590-a846-d27a8b1483c5.png" width="200">&nbsp;<img src="(https://user-images.githubusercontent.com/67482991/138246384-e8cb1de9-1c58-4384-9058-bd6c62feae00.png" width="200">&nbsp;<img src="(https://user-images.githubusercontent.com/67482991/138246410-0532b286-51ed-46e2-a6c5-59862bd1b991.png" width="200">
+<img src="https://user-images.githubusercontent.com/67482991/138246356-b08980b4-33e0-4590-a846-d27a8b1483c5.png" width="200">&nbsp;
+<img src="(https://user-images.githubusercontent.com/67482991/138246384-e8cb1de9-1c58-4384-9058-bd6c62feae00.png" width="200">&nbsp;
+<img src="(https://user-images.githubusercontent.com/67482991/138246410-0532b286-51ed-46e2-a6c5-59862bd1b991.png" width="200">&nbsp;
 <img src="https://user-images.githubusercontent.com/67482991/138246421-0c878c35-a788-419e-a3a5-71269aacacd9.png" width="200">&nbsp;
 <img src="https://user-images.githubusercontent.com/67482991/138246425-ef744a8c-d3cd-4a8d-a82d-574d72954121.png" width="200">&nbsp;
 <img src="https://user-images.githubusercontent.com/67482991/138246439-8d18f195-2bc7-42af-9301-605bf8704eb8.png" width="200">&nbsp;
